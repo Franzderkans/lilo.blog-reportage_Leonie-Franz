@@ -8,7 +8,7 @@ image = "d028e414-7385-4ffd-b72a-07e8a5dd2e70.jpg"
 description = ""
 footnotes = "Quelle Abbildung Blogtitel: Eigene Aufnahme\n\nQuelle Abbildung 1: Eigene Aufnahme\n\nQuelle Abbildung 2: Eigene Aufnahme\n\nQuelle Abbildung 3: Eigene Aufnahme"
 +++
-![](img_4721-large.jpeg "Abbildung 1: Die bunte Auswahl des \"Hoflädelis\": ")
+![Abbildung 1: Die bunte Auswahl des \"Hoflädelis\": ](img_4721-large.jpeg "Abbildung 1: Die bunte Auswahl des \\"Hoflädelis\\": ")
 
 {{<lead>}}
 Die Freiheit ihres Berufes verbindet sie, und doch könnten Prinzipien ihren Alltag nicht unterschiedlicher machen. Während sie aufs Feld geht und von Hand die Bio-Erdbeeren pflückt, fährt er mit der Pestizidspritze übers Zuckerrübenfeld. 
@@ -52,6 +52,6 @@ Für eine mehrheitlich biologische Schweizer Landwirtschaft ist es zuerst wichti
 
 Wie die Nahrungsmittel hergestellt werden, ob Bio oder IP-Suisse, das Thema betrifft alle. Es existieren viele verschiedene Ansichten, Überzeugungen, was ideal und umsetzbar wäre. Dass alle Lebensmittel Bio und nachhaltig hergestellt werden, ist in der Gesellschaft noch nicht möglich. Dafür muss der Wert des Essens neu definiert werden. Das Essen sollte als ein wertvolles Gut angesehen werden, und man müsste sich im Klaren sein, dass diese Nahrungsmittel täglich zur Verfügung stehen und darüber nachdenken, woher sie kommen und wie sie produziert werden. Ideal wäre es natürlich, wenn die Produkte immer aus dem Biolädeli von nebenan kommen. Jedoch haben nicht alle die Mittel dazu, und da muss man für sich abwägen, was und wie viel man sich leisten kann. Es ist schon ein guter Schritt Richtung ökologische Landwirtschaft, wenn alle möglichst saisonal und lokal einkaufen. Oft findet man in kleinen Bioläden, frische, feine, und sogar neue Produkte, die man noch nicht kennt, wie beispielsweise den Karotten-Lachs im Hoflädeli von Katrin Portmann.
 
-![](img_4720-large.jpeg "Abbildung 2: Lachs-Karotten im \"Biolädeli\" ")
+![Abbildung 2: Lachs-Karotten im \"Biolädeli\" ](img_4720-large.jpeg "Abbildung 2: Lachs-Karotten im \\"Biolädeli\\" ")
 
-![](img_4719-large.jpeg "Abbildung 3: Bezahlung via TWINT")
+![Abbildung 3: Bezahlung via TWINT](img_4719-large.jpeg "Abbildung 3: Bezahlung via TWINT")
