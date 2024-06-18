@@ -44,9 +44,7 @@ Dieser Hass auf die sogenannten «Gift-Barone» verzog sich aber ziemlich rasch 
 
 Und doch ist der Umschwung in der Politik schon vor der Pandemie in vollem Gange, auch Marcel Schott bekommt dies zu spüren. 2019 wird ein Insektizid verboten, mit welchem die Zuckerrübensetzlinge umhüllt wurden. Dieses gelangte in die Zuckerrübe, wenn sie wuchs und schützte sie zuerst vor Insekten und Unkraut, danach vor Krankheiten. « Man möchte immer weniger Pflanzenschuttmittel benutzen, doch das ist kontraproduktiv: Jetzt muss ich die Zuckerrüben drei- bis viermal spritzen, statt einmal beizen.» Auch sind die Setzlinge viel schwächer und angreifbarer. Das Wachstum ist zu Beginn sehr eingeschränkt und auch die Blätter leiden sehr. Das wiederum senkt den Verkaufspreis, da dieser durch Gewicht und Zuckerhalt der Zuckerrüben bestimmt ist.
 
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
+``
 
 `{{<box>}}`
 
