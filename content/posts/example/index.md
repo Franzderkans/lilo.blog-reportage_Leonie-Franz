@@ -55,12 +55,11 @@ Auch Bilder können in eine Box gepackt werden.
 {{</box>}}
 
 `{{</*box title="Ausklappbare Box"*/>}}`\
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.\
-`{{</*/box*/>}}`
-
-![Abbildung 2: Von Schädlingen befallener Zuckerrübensetzling](von-scha-dlingen-befallener-zuckerru-bensetzling-large.jpeg "Abbildung 2: Von Schädlingen befallener Zuckerrübensetzling")
+Wird ein Titel angegeben, so kann die Box ausgeklappt werden.``
 
 ![Abbildung 3: Zuckerrübenpflanze 14 Tage nach Schädlingsbekämpfung](zuckerru-benpflanze-14-tage-nach-scha-dlingsbeka-mpfung-large-large-medium.jpeg "Abbildung 3: Zuckerrübenpflanze 14 Tage nach Schädlingsbekämpfung")
+
+`{{</*/box*/>}}`
 
 `{{</*/box*/>}}`
 
