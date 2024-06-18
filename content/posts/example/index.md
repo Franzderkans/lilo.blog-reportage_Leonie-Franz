@@ -1,5 +1,5 @@
 +++
-title = "Die Umsetzung der Bio-Ideologie "
+title = "template"
 date = "2024-06-18"
 draft = true
 pinned = false
