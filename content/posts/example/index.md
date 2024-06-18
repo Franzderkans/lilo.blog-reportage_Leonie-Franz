@@ -4,9 +4,9 @@ date = "2024-06-18"
 draft = false
 pinned = true
 tags = ["Lilo", "Reportage"]
-image = "d028e414-7385-4ffd-b72a-07e8a5dd2e70.jpg"
+image = "img_4721-large.jpeg"
 description = "Der Unterschied von Bio zu IP-Suisse - Zwei Höfe im Vergleich"
-footnotes = "Quelle Abbildung 0, Blogtitel : Eigene Aufnahme\n\nQuelle Abbildung 1: Eigene Aufnahme\n\nQuelle Abbildung 2: Aufnahme Marcel Schott\n\nQuelle Abbildung 3: Aufnahme Marcel Schott\n\nQuelle Abbildung 4: Eigene Aufnahme\n\nQuelle Abbildung 5: Eigene Aufnahme"
+footnotes = "Quelle Abbildung 0, Titelbild : Eigene Aufnahme\n\nQuelle Abbildung 1: Eigene Aufnahme\n\nQuelle Abbildung 2: Aufnahme Marcel Schott\n\nQuelle Abbildung 3: Aufnahme Marcel Schott\n\nQuelle Abbildung 4: Eigene Aufnahme\n\nQuelle Abbildung 5: Eigene Aufnahme"
 +++
 ![Abbildung 1: Die bunte Auswahl des "Hoflädelis": ](img_4721-large.jpeg "Abbildung 1: Die bunte Auswahl des \"Hoflädelis\": ")
 
