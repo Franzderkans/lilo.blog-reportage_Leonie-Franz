@@ -6,9 +6,9 @@ pinned = true
 tags = ["Lilo", "Reportage"]
 image = "d028e414-7385-4ffd-b72a-07e8a5dd2e70.jpg"
 description = ""
-footnotes = "Quelle Abbildung 0, Blogtitel : Eigene Aufnahme\n\nQuelle Abbildung 1: Eigene Aufnahme\n\nQuelle Abbildung 2: Eigene Aufnahme\n\nQuelle Abbildung 3: Eigene Aufnahme\n\nQuelle Abbildung 4: Aufnahme Marcel Schott\n\nQuelle Abbildung 5: Aufnahme Marcel Schott"
+footnotes = "Quelle Abbildung 0, Blogtitel : Eigene Aufnahme\n\nQuelle Abbildung 1: Eigene Aufnahme\n\nQuelle Abbildung 2: Aufnahme Marcel Schott\n\nQuelle Abbildung 3: Aufnahme Marcel Schott\n\nQuelle Abbildung 4: Eigene Aufnahme\n\nQuelle Abbildung 5: Eigene Aufnahme"
 +++
-![Abbildung 1: Die bunte Auswahl des \"Hoflädelis\": ](img_4721-large.jpeg "Abbildung 1: Die bunte Auswahl des \\\"Hoflädelis\\\": ")
+![Abbildung 1: Die bunte Auswahl des "Hoflädelis": ](img_4721-large.jpeg "Abbildung 1: Die bunte Auswahl des \"Hoflädelis\": ")
 
 {{<lead>}}
 Die Freiheit ihres Berufes verbindet sie, und doch könnten Prinzipien ihren Alltag nicht unterschiedlicher machen. Während sie aufs Feld geht und von Hand die Bio-Erdbeeren pflückt, fährt er mit der Pestizidspritze übers Zuckerrübenfeld. 
@@ -44,6 +44,10 @@ Dieser Hass auf die sogenannten «Gift-Barone» verzog sich aber ziemlich rasch 
 
 Und doch ist der Umschwung in der Politik schon vor der Pandemie in vollem Gange, auch Marcel Schott bekommt dies zu spüren. 2019 wird ein Insektizid verboten, mit welchem die Zuckerrübensetzlinge umhüllt wurden. Dieses gelangte in die Zuckerrübe, wenn sie wuchs und schützte sie zuerst vor Insekten und Unkraut, danach vor Krankheiten. « Man möchte immer weniger Pflanzenschuttmittel benutzen, doch das ist kontraproduktiv: Jetzt muss ich die Zuckerrüben drei- bis viermal spritzen, statt einmal beizen.» Auch sind die Setzlinge viel schwächer und angreifbarer. Das Wachstum ist zu Beginn sehr eingeschränkt und auch die Blätter leiden sehr. Das wiederum senkt den Verkaufspreis, da dieser durch Gewicht und Zuckerhalt der Zuckerrüben bestimmt ist.
 
+![Abbildung 2: Von Schädlingen befallener Zuckerrübensetzling](von-scha-dlingen-befallener-zuckerru-bensetzling-large.jpeg "Abbildung 2: Von Schädlingen befallener Zuckerrübensetzling")
+
+![Abbildung 3: Zuckerrübenpflanze 14 Tage nach Schädlingsbekämpfung](zuckerru-benpflanze-14-tage-nach-scha-dlingsbeka-mpfung-large-large-medium.jpeg "Abbildung 3: Zuckerrübenpflanze 14 Tage nach Schädlingsbekämpfung")
+
 ### **Die Bio-Utopie**
 
 Für eine mehrheitlich biologische Schweizer Landwirtschaft ist es zuerst wichtig, den Import zu minimieren, die Eigenproduktion zu steigern und erst dann auf Bio umzusteigen. Mit neuen Technologien, wie beispielsweise dem vertikalen Farmen, also anbauen an Flächen von hohen Gebäuden, z.B. Hausfassaden, Balkonen und Dächern, oder genauen Bewässerungssystemen würde die landwirtschaftliche Produktivität erheblich gesteigert werden. Um Emissionen durch den Transport zu minimieren, müsste auch weitestgehend von allen regional und saisonal eingekauft werden.  Durch diese Massnahmen wäre die Schweiz in der Lage, sich weitgehend biologisch und eigenständig zu versorgen, gleichzeitig aber auch klimafreundlich und nachhaltig.
@@ -52,10 +56,6 @@ Für eine mehrheitlich biologische Schweizer Landwirtschaft ist es zuerst wichti
 
 Wie die Nahrungsmittel hergestellt werden, ob Bio oder IP-Suisse, das Thema betrifft alle. Es existieren viele verschiedene Ansichten, Überzeugungen, was ideal und umsetzbar wäre. Dass alle Lebensmittel Bio und nachhaltig hergestellt werden, ist in der Gesellschaft noch nicht möglich. Dafür muss der Wert des Essens neu definiert werden. Das Essen sollte als ein wertvolles Gut angesehen werden, und man müsste sich im Klaren sein, dass diese Nahrungsmittel täglich zur Verfügung stehen und darüber nachdenken, woher sie kommen und wie sie produziert werden. Ideal wäre es natürlich, wenn die Produkte immer aus dem Biolädeli von nebenan kommen. Jedoch haben nicht alle die Mittel dazu, und da muss man für sich abwägen, was und wie viel man sich leisten kann. Es ist schon ein guter Schritt Richtung ökologische Landwirtschaft, wenn alle möglichst saisonal und lokal einkaufen. Oft findet man in kleinen Bioläden, frische, feine, und sogar neue Produkte, die man noch nicht kennt, wie beispielsweise den Karotten-Lachs im Hoflädeli von Katrin Portmann.
 
-![Abbildung 2: Lachs-Karotten im \"Biolädeli\" ](img_4720-large.jpeg "Abbildung 2: Lachs-Karotten im \\\"Biolädeli\\\" ")
+![Abbildung 4: Lachs-Karotten im "Biolädeli" ](img_4720-large.jpeg "Abbildung 4: Lachs-Karotten im \"Biolädeli\" ")
 
-![Abbildung 3: Bezahlung via TWINT](img_4719-large.jpeg "Abbildung 3: Bezahlung via TWINT")
-
-![Abbildung 4: Von Schädlingen befallener Zuckerrübensetzling](von-scha-dlingen-befallener-zuckerru-bensetzling-large.jpeg "Abbildung 4: Von Schädlingen befallener Zuckerrübensetzling")
-
-![Abbildung 5: Zuckerrübenpflanze 14 Tage nach Schädlingsbekämpfung](zuckerru-benpflanze-14-tage-nach-scha-dlingsbeka-mpfung-large-large-medium.jpeg "Abbildung 4: Von Schädlingen befallener Zuckerrübensetzling")
+![Abbildung 5: Bezahlung via TWINT](img_4719-large.jpeg "Abbildung 5: Bezahlung via TWINT")
