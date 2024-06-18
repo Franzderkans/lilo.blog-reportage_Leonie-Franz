@@ -8,9 +8,11 @@ image = "img_4721-large.jpeg"
 description = "Der Unterschied von Bio zu IP-Suisse - Zwei Höfe im Vergleich"
 footnotes = "Quelle Abbildung 0, Titelbild : Eigene Aufnahme\n\nQuelle Abbildung 1: Eigene Aufnahme\n\nQuelle Abbildung 2: Aufnahme Marcel Schott\n\nQuelle Abbildung 3: Aufnahme Marcel Schott\n\nQuelle Abbildung 4: Eigene Aufnahme\n\nQuelle Abbildung 5: Eigene Aufnahme"
 +++
-  ![Abbildung 1: Die bunte Auswahl im Hoflädeli von Mosers Biohof](img_4721-large.jpeg)
-
 ## Der Unterschied von Bio zu IP-Suisse - Zwei Höfe im Vergleich
+
+  
+
+![Abbildung 1: Die bunte Auswahl im Hoflädeli von Mosers Biohof](img_4721-large.jpeg)
 
 {{<lead>}}
 Die Freiheit ihres Berufes verbindet sie, und doch könnten Prinzipien ihren Alltag nicht unterschiedlicher machen. Während sie aufs Feld geht und von Hand die Bio-Erdbeeren pflückt, fährt er mit der Pestizidspritze übers Zuckerrübenfeld. 
@@ -39,8 +41,6 @@ Wie schon angedeutet, gibt es mehrere Labels, die gängigsten sind Demeter, Bio 
 In den Medien taucht immer wieder der Begriff konventionelle Landwirtschaft auf. Damit ist aber meistens IP-Suisse gemeint. Das führt doch zu Unklarheiten, denn in der konventionellen Landwirtschaft gelten wirklich nur die gesetzlichen Mindestanforderungen. Die IP-Suisse Vorschriften gehen deutlich weiter als das gesetzliche Minimum. Sie erlauben aber mehr Pestizide als Bio Suisse. Das Ziel von IP-Suisse ist es, zwischen biologischer und konventioneller Landwirtschaft zu stehen.
 
 {{</box>}}
-
-
 
 ### **Produktion & Politik**
 
