@@ -2,10 +2,10 @@
 title = "Die Umsetzung der Bio-Ideologie"
 date = "2024-06-18"
 draft = true
-pinned = false
+pinned = true
 tags = ["Lilo", "Reportage"]
-image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+image = ""
+description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 
