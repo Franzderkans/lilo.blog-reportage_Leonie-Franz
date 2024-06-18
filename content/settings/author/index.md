@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Leonie Spycher & Franz Nufer "
-image = ""
+image = "https://unsplash.com/photos/open-book-lot-Oaqk7qqNh_c"
 url = ""
 +++
