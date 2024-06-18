@@ -1,7 +1,7 @@
 +++
 title = "Die Umsetzung der Bio-Ideologie"
 date = "2024-06-18"
-draft = false
+draft = true
 pinned = true
 tags = ["Lilo", "Reportage"]
 image = ""
