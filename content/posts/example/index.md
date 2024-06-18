@@ -48,20 +48,11 @@ Und doch ist der Umschwung in der Politik schon vor der Pandemie in vollem Gange
 In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
 {{</box>}}
 
-`{{</*box*/>}}`\
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`\
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.``
+`{{<box>}}`
 
 ![Abbildung 3: Zuckerrübenpflanze 14 Tage nach Schädlingsbekämpfung](zuckerru-benpflanze-14-tage-nach-scha-dlingsbeka-mpfung-large-large-medium.jpeg "Abbildung 3: Zuckerrübenpflanze 14 Tage nach Schädlingsbekämpfung")
 
-`{{</*/box*/>}}`
-
-`{{</*/box*/>}}`
+`{{</box>}}`
 
 ### **Die Bio-Utopie**
 
