@@ -8,7 +8,9 @@ image = "img_4721-large.jpeg"
 description = "Der Unterschied von Bio zu IP-Suisse - Zwei Höfe im Vergleich"
 footnotes = "Quelle Abbildung 0, Titelbild : Eigene Aufnahme\n\nQuelle Abbildung 1: Eigene Aufnahme\n\nQuelle Abbildung 2: Aufnahme Marcel Schott\n\nQuelle Abbildung 3: Aufnahme Marcel Schott\n\nQuelle Abbildung 4: Eigene Aufnahme\n\nQuelle Abbildung 5: Eigene Aufnahme"
 +++
-![Abbildung 1: Die bunte Auswahl im Hoflädeli von Mosers Biohof](img_4721-large.jpeg)
+ ![Abbildung 1: Die bunte Auswahl im Hoflädeli von Mosers Biohof](img_4721-large.jpeg)
+
+## Der Unterschied von Bio zu IP-Suisse - Zwei Höfe im Vergleich
 
 {{<lead>}}
 Die Freiheit ihres Berufes verbindet sie, und doch könnten Prinzipien ihren Alltag nicht unterschiedlicher machen. Während sie aufs Feld geht und von Hand die Bio-Erdbeeren pflückt, fährt er mit der Pestizidspritze übers Zuckerrübenfeld. 
