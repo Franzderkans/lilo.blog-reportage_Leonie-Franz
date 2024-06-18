@@ -38,7 +38,7 @@ Wie schon angedeutet, gibt es mehrere Labels, die gängigsten sind Demeter, Bio 
 
 In den Medien taucht immer wieder der Begriff konventionelle Landwirtschaft auf. Damit ist aber meistens IP-Suisse gemeint. Das führt doch zu Unklarheiten, denn in der konventionellen Landwirtschaft gelten wirklich nur die gesetzlichen Mindestanforderungen. Die IP-Suisse Vorschriften gehen deutlich weiter als das gesetzliche Minimum. Sie erlauben aber mehr Pestizide als Bio Suisse. Das Ziel von IP-Suisse ist es, zwischen biologischer und konventioneller Landwirtschaft zu stehen.
 
-{{<endbox>}}
+{{</box>}}
 
 
 
