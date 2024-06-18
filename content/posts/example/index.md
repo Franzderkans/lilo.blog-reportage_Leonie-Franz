@@ -10,13 +10,11 @@ footnotes = "Quelle Abbildung 0, Titelbild : Eigene Aufnahme\n\nQuelle Abbildung
 +++
 ## Der Unterschied von Bio zu IP-Suisse - Zwei Höfe im Vergleich
 
-  
-
 ![Abbildung 1: Die bunte Auswahl im Hoflädeli von Mosers Biohof](img_4721-large.jpeg)
 
 {{<lead>}}
 Die Freiheit ihres Berufes verbindet sie, und doch könnten Prinzipien ihren Alltag nicht unterschiedlicher machen. Während sie aufs Feld geht und von Hand die Bio-Erdbeeren pflückt, fährt er mit der Pestizidspritze übers Zuckerrübenfeld. 
-{{<lead>}}
+{{</lead>}}
 
 ### **Kupfer & Kompromisse**
 
