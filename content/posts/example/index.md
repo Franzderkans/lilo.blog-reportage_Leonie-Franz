@@ -8,7 +8,7 @@ image = "img_4721-large.jpeg"
 description = "Der Unterschied von Bio zu IP-Suisse - Zwei Höfe im Vergleich"
 footnotes = "Quelle Abbildung 0, Titelbild : Eigene Aufnahme\n\nQuelle Abbildung 1: Eigene Aufnahme\n\nQuelle Abbildung 2: Aufnahme Marcel Schott\n\nQuelle Abbildung 3: Aufnahme Marcel Schott\n\nQuelle Abbildung 4: Eigene Aufnahme\n\nQuelle Abbildung 5: Eigene Aufnahme"
 +++
-![Abbildung 1: Die bunte Auswahl im Hoflädeli ](img_4721-large.jpeg)
+![Abbildung 1: Die bunte Auswahl im Hoflädeli von Mosers Biohof](img_4721-large.jpeg)
 
 {{<lead>}}
 Die Freiheit ihres Berufes verbindet sie, und doch könnten Prinzipien ihren Alltag nicht unterschiedlicher machen. Während sie aufs Feld geht und von Hand die Bio-Erdbeeren pflückt, fährt er mit der Pestizidspritze übers Zuckerrübenfeld. 
@@ -42,7 +42,7 @@ Der IP-Suisse Bauer besitzt 46 Hektar Land, das ist ungefähr so viel wie 64 Fus
 
 Dieser Hass auf die sogenannten «Gift-Barone» verzog sich aber ziemlich rasch wieder als die Situation mit der Corona Pandemie immer kritischer wurde. Die meisten Lebensmittel, die in der Schweiz produziert werden, sind IP-Suisse zertifiziert. Mit diesem Label ist eine grössere Produktion möglich. Ohne diesen Grossanbau von Lebensmitteln, hätte sich die Schweiz noch schlechter versorgen können, als sie es ohnehin schon tat, und noch mehr hätte importiert werden müssen. Schon bald nach den Abstimmungen erlangt das Coronavirus wieder Oberhand in den Medien. Die Lebensmittelproduktion der IP-Suisse Landwirt: innen wieder wertgeschätzt, da die Lebensmittelknappheit plötzlich greifbar nahe war. Marcel Schott und viele Landwirt: innen verspürten eine Erleichterung.
 
-Und doch ist der Umschwung in der Politik schon vor der Pandemie in vollem Gange, auch Marcel Schott bekommt dies zu spüren. 2019 wird ein Insektizid verboten, mit welchem die Zuckerrübensetzlinge umhüllt wurden. Dieses gelangte in die Zuckerrübe, wenn sie wuchs und schützte sie zuerst vor Insekten und Unkraut, danach vor Krankheiten. « Man möchte immer weniger Pflanzenschuttmittel benutzen, doch das ist kontraproduktiv: Jetzt muss ich die Zuckerrüben drei- bis viermal spritzen, statt einmal beizen.» Auch sind die Setzlinge viel schwächer und angreifbarer. Das Wachstum ist zu Beginn sehr eingeschränkt und auch die Blätter leiden sehr. Das wiederum senkt den Verkaufspreis, da dieser durch Gewicht und Zuckerhalt der Zuckerrüben bestimmt ist.
+Doch der Umschwung in der Politik ist schon vor der Pandemie in vollem Gange, Marcel Schott erzählt von den Konsequenzen die er erfuhr. 2019 wurde ein Insektizid verboten, mit welchem die Zuckerrübensetzlinge umhüllt wurden. Dieses gelangte in die Zuckerrübe, wenn sie wuchs und schützte sie zuerst vor Insekten und Unkraut, danach vor Krankheiten. « Man möchte immer weniger Pflanzenschuttmittel benutzen, doch das ist kontraproduktiv: Jetzt muss ich die Zuckerrüben drei- bis viermal spritzen, statt einmal beizen.» Auch seien die Setzlinge viel schwächer und angreifbarer. Das Wachstum ist zu Beginn sehr eingeschränkt und auch die Blätter leiden merklich. Das wiederum senkt den Verkaufspreis, da dieser durch Gewicht und Zuckerhalt der Zuckerrüben bestimmt ist. Der IP-Bauer hat deswegen auch schon 20'000 Fr. weniger Gewinn gemacht.
 
 ![Abbildung 2: Von Schädlingen befallener Zuckerrübensetzling](von-scha-dlingen-befallener-zuckerru-bensetzling-copy.jpg)
 
@@ -50,7 +50,7 @@ Und doch ist der Umschwung in der Politik schon vor der Pandemie in vollem Gange
 
 ### **Die Bio-Utopie**
 
-Für eine mehrheitlich biologische Schweizer Landwirtschaft ist es zuerst wichtig, den Import zu minimieren, die Eigenproduktion zu steigern und erst dann auf Bio umzusteigen. Mit neuen Technologien, wie beispielsweise dem vertikalen Farmen, also anbauen an Flächen von hohen Gebäuden, z.B. Hausfassaden, Balkonen und Dächern, oder genauen Bewässerungssystemen würde die landwirtschaftliche Produktivität erheblich gesteigert werden. Um Emissionen durch den Transport zu minimieren, müsste auch weitestgehend von allen regional und saisonal eingekauft werden.  Durch diese Massnahmen wäre die Schweiz in der Lage, sich weitgehend biologisch und eigenständig zu versorgen, gleichzeitig aber auch klimafreundlich und nachhaltig.
+Für eine mehrheitlich biologische Schweizer Landwirtschaft ist es zuerst wichtig, den Import zu minimieren, die Eigenproduktion zu steigern und erst dann auf Bio umzusteigen. Mit neuen Technologien, wie beispielsweise dem vertikalen Farmen, also anbauen an Flächen von hohen Gebäuden, z.B. Hausfassaden, Balkonen und Dächern, oder genauen Bewässerungssystemen würde die landwirtschaftliche Produktivität erheblich gesteigert werden. Um Emissionen durch den Transport zu minimieren, müsste auch weitestgehend von allen regional und saisonal eingekauft werden. Durch diese Massnahmen wäre die Schweiz in der Lage, sich weitgehend biologisch und eigenständig zu versorgen, gleichzeitig aber auch klimafreundlich und nachhaltig.
 
 ### **Zuhause im Alltag**
 
