@@ -40,6 +40,8 @@ In den Medien taucht immer wieder der Begriff konventionelle Landwirtschaft auf.
 
 {{</box>}}
 
+\---
+
 ### **Produktion & Politik**
 
 Marcel Schott ist ein Saatgutproduzent, der seine Felder im Seeland bewirtschaftet. Alle Landwirt: innen, die Getreide anpflanzen, benötigen dieses Saatgut. Marcel Schott vermehrt Saatgut von Gerste und Weizen, welches er nach der Ernte in zwei Ladungen nach Lyss in die Annahmestelle bringt. Mit dem Traktor fährt er mit maximal 30km/h während fast zwei Stunden. Dort angekommen wird das Getreide zuerst abgeladen, dann von Insekten und Schmutz gereinigt, gebeizt, also mit Pflanzenschutzmittel gegen Krankheiten und Pilze behandelt und abgepackt für das Saatgut im nächsten Jahr.
