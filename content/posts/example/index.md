@@ -40,7 +40,7 @@ In den Medien taucht immer wieder der Begriff konventionelle Landwirtschaft auf.
 
 {{</box>}}
 
-\---
+--- 
 
 ### **Produktion & Politik**
 
