@@ -36,7 +36,7 @@ Der Bioanbau ist oft mit viel Handarbeit verbunden, in der brennenden Sonne beim
 
 Wie schon angedeutet, gibt es mehrere Labels, die gängigsten sind Demeter, Bio Suisse und IP-Suisse. Der Bio Suisse Standard setzt voraus, dass auf natürliche Kreisläufe und Prozesse, sowie auf Nachhaltigkeit, Biodiversität und Bodenfruchtbarkeit Rücksicht genommen wird. Damit das eingehalten werden kann, gibt es Auflagen und Kontrollen. Gemäss dem Bundesamt für Statistik sind 2023 in der Schweiz 19 Prozent aller Bauernhöfe Bio zertifiziert. Die Auflagen des Demeter Labels reichen noch weiter als die von Bio Suisse und gelten auch weltweit.
 
-In den Medien taucht immer wieder der Begriff konventionelle Landwirtschaft auf. Damit ist aber meistens IP-Suisse gemeint. Das führt doch zu Unklarheiten, denn in der konventionellen Landwirtschaft gelten wirklich nur die gesetzlichen Mindestanforderungen. Die IP-Suisse Vorschriften gehen deutlich weiter als das gesetzliche Minimum. Sie erlauben aber mehr Pestizide als Bio Suisse. Das Ziel von IP-Suisse ist es, zwischen biologischer und konventioneller Landwirtschaft zu stehen.
+In den Medien taucht immer wieder der Begriff konventionelle Landwirtschaft auf. Damit ist aber meistens IP-Suisse gemeint. Das führt zu Unklarheiten, denn in der konventionellen Landwirtschaft gelten nur die gesetzlichen Mindestanforderungen. Die IP-Suisse Vorschriften gehen deutlich weiter als das gesetzliche Minimum. Sie erlauben aber mehr Pestizide als Bio Suisse. Das Ziel von IP-Suisse ist es, zwischen biologischer und konventioneller Landwirtschaft zu stehen.
 
 {{</box>}}
 
