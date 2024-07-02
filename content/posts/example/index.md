@@ -8,21 +8,21 @@ image = "img_4721-large.jpeg"
 description = "Der Unterschied von Bio zu IP-Suisse - Zwei Höfe im Vergleich"
 footnotes = "Quelle Abbildung 0, Titelbild : Eigene Aufnahme\n\nQuelle Abbildung 1: Eigene Aufnahme\n\nQuelle Abbildung 2: Aufnahme Marcel Schott\n\nQuelle Abbildung 3: Aufnahme Marcel Schott\n\nQuelle Abbildung 4: Eigene Aufnahme\n\nQuelle Abbildung 5: Eigene Aufnahme"
 +++
-## Der Unterschied von Bio zu IP-Suisse - Zwei Höfe im Vergleich
+## Der Unterschied von Bio zu IP-Suisse - zwei Höfe im Vergleich
 
 ![Abbildung 1: Die bunte Auswahl im Hoflädeli von Mosers Biohof](img_4721-large.jpeg)
 
 {{<lead>}}
-Die Freiheit ihres Berufes verbindet die Beiden, und doch könnten Prinzipien ihren Alltag nicht unterschiedlicher machen. Während sie aufs Feld geht und von Hand die Bio-Erdbeeren pflückt, fährt er mit der Pestizidspritze übers Zuckerrübenfeld. 
+Die Freiheit ihres Berufes verbindet die beiden, und doch könnten Prinzipien ihren Alltag nicht unterschiedlicher machen. Während sie aufs Feld geht und von Hand die Bio-Erdbeeren pflückt, fährt er mit der Pestizidspritze übers Zuckerrübenfeld. 
 {{</lead>}}
 
 ### **Kupfer & Kompromisse**
 
-Eine Nachbarin kommt herein, sie wird herzlich begrüsst. Wo denn die Erdbeeren seien, fragt sie und wird freundlich zum kleinen Hofladen vor dem Haus gewiesen: « Die Erdbeeren habe ich schon nach unten gebracht». Im Hofladen findet man nicht nur Erdbeeren, Karotten, Salat und noch mehr Früchte und frisches Bio-Gemüse, sondern auch selbstgemachten Bio-Tofu, Karotten-Lachs, Most, diverse Hülsenfrüchte und Getreide.
+Eine Nachbarin kommt herein, sie wird herzlich begrüsst. Wo denn die Erdbeeren seien, fragt sie und wird freundlich zum kleinen Hofladen vor dem Haus gewiesen: « Die Erdbeeren habe ich schon nach unten gebracht». Im Hofladen findet man nicht nur Erdbeeren, Karotten, Salat und noch mehr Früchte und frisches Bio-Gemüse, sondern auch selbstgemachten Bio-Tofu, Karottenlachs, Most, diverse Hülsenfrüchte und Getreide.
 
 Durch eine schlichte Tür geht es in die einladende Küche mit dem angrenzenden Esszimmer des schönen Biohofs Trimstein. Der ganze Raum hat eine helle, warme Holztäfelung und über den Köpfen stützen massige Balken die Decke. An der Wand neben dem Esstisch hängt ein leerer Kartoffelsack, auf dem steht: «Mosers Biohof seit 2015».
 
-Völlig anders als es das Klischee besagt, hat Katrin Portmann zuerst studiert und anschliessend in einem Büro gearbeitet, und erst später kam sie zu ihrem Partner auf den Hof. Sie trauere dem Bürojob kein bisschen nach, meinte sie. Durch Katrin Portmann entstand die Idee den Hof auf Bio umzustellen. Der Hof verwandelte sich von einer einseitigen Milchproduktion zu einem vielfältigen Biohof mit vielen verschiedenen Produkten. Eines bleibt aber gleich: Es muss viel Arbeit auf dem familiären Hof erledigt werden. Diese Arbeit wird nebst Katrin Portmanns Familie auch noch von einer Aushilfe und Lehrlingen unterstützt. Die Aufgaben sind mit einem Tages- und einem Wochenplan strukturiert, sie sind abwechslungsreich aufgeteilt, damit die Lernenden verschiedene Einblicke haben und alle Arbeiten einmal gemacht haben.
+Völlig anders als es das Klischee besagt, hat Katrin Portmann zuerst studiert und anschliessend in einem Büro gearbeitet, und erst später kam sie zu ihrem Partner auf den Hof. Sie trauere dem Bürojob kein bisschen nach, meinte sie. Durch Katrin Portmann entstand die Idee den Hof auf Bio umzustellen. Der Hof verwandelte sich von einer einseitigen Milchproduktion zu einem vielfältigen Biohof mit vielen verschiedenen Produkten. Eines bleibt aber gleich: Es muss viel Arbeit auf dem familiären Hof erledigt werden. Diese Arbeit wird nebst Katrin Portmanns Familie auch noch von einer Aushilfe und Lehrlingen unterstützt. Die Aufgaben sind mit einem Tages- und einem Wochenplan strukturiert, sie sind abwechslungsreich aufgeteilt, damit die Lernenden verschiedene Einblicke bekommen und alle Arbeiten einmal erledigt haben.
 
 Eines ihrer Produkte sind Erdbeeren. Diese werden immer mit einem Regendach vor Regen, Wind und Hagel geschützt. Doch in Jahren wie in diesem ist es schlicht zu feucht, die Erdbeeren beginnen zu faulen. Um dies zu vermeiden, ist der Gebrauch von Pflanzenschutzmitteln wie Kupfer, oder Kaliumkarbonat bei gewissen Früchten und Gemüsen unvermeidbar. Kupfer bleibt zwar im Boden, jedoch hat es keine synthetischen Giftstoffe, die ins Trinkwasser kommen. Obwohl Mittel wie beispielsweise Kupfer von Bio Suisse zugelassen sind, werden sie laut Katrin Portmann nur eingesetzt, wenn es wirklich nicht anders ginge. Sie führt uns vor Augen, dass es immer ein Abwägen sei, ob man nun Pestizide einsetze oder nicht. «Manchmal muss Kupfer eingesetzt werden, wenn, dann nur in geringen Mengen», erläuterte Katrin Portmann, «es ist der beste Kompromiss.»
 
@@ -40,7 +40,7 @@ In den Medien taucht immer wieder der Begriff konventionelle Landwirtschaft auf.
 
 {{</box>}}
 
---- 
+- - -
 
 ### **Produktion & Politik**
 
@@ -62,7 +62,7 @@ Für eine mehrheitlich biologische Schweizer Landwirtschaft ist es zuerst wichti
 
 ### **Zuhause im Alltag**
 
-Wie die Nahrungsmittel hergestellt werden, ob Bio oder IP-Suisse, das Thema betrifft alle. Es existieren viele verschiedene Ansichten, Überzeugungen, was ideal und umsetzbar wäre. Dass alle Lebensmittel Bio und nachhaltig hergestellt werden, ist in der Gesellschaft noch nicht möglich. Dafür muss der Wert des Essens neu definiert werden. Das Essen sollte als ein wertvolles Gut angesehen werden, und man müsste sich im Klaren sein, dass diese Nahrungsmittel täglich zur Verfügung stehen und darüber nachdenken, woher sie kommen und wie sie produziert werden. Ideal wäre es natürlich, wenn die Produkte immer aus dem Biolädeli von nebenan kommen. Jedoch haben nicht alle die Mittel dazu, und da muss man für sich abwägen, was und wie viel man sich leisten kann. Es ist schon ein guter Schritt Richtung ökologische Landwirtschaft, wenn alle möglichst saisonal und lokal einkaufen. Oft findet man in kleinen Bioläden, frische, feine, und sogar neue Produkte, die man noch nicht kennt, wie beispielsweise den Karotten-Lachs im Hoflädeli von Katrin Portmann.
+Wie die Nahrungsmittel hergestellt werden, ob Bio oder IP-Suisse, das Thema betrifft alle. Es existieren viele verschiedene Ansichten, Überzeugungen, was ideal und umsetzbar wäre. Dass alle Lebensmittel Bio und nachhaltig hergestellt werden, ist in der Gesellschaft noch nicht möglich. Dafür muss der Wert des Essens neu definiert werden. Das Essen sollte als ein wertvolles Gut angesehen werden, und man müsste sich im Klaren sein, dass diese Nahrungsmittel täglich zur Verfügung stehen und darüber nachdenken, woher sie kommen und wie sie produziert werden. Ideal wäre es natürlich, wenn die Produkte immer aus dem Biolädeli von nebenan kommen. Jedoch haben nicht alle die Mittel dazu, und da muss man für sich abwägen, was und wie viel man sich leisten kann. Es ist schon ein guter Schritt Richtung ökologische Landwirtschaft, wenn alle möglichst saisonal und lokal einkaufen. Oft findet man in kleinen Bioläden, frische, feine, und sogar neue Produkte, die man noch nicht kennt, wie beispielsweise den Karottenlachs im Hoflädeli von Katrin Portmann.
 
 ![Abbildung 4: Lachs-Karotten im Hoflädeli ](img_4720-large.jpeg)
 
